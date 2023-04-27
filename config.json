@@ -1,0 +1,5 @@
+{
+  "data_file_train": "data/body_performance_data_train.csv",
+  "data_file_validation": "data/body_performance_data_validation.csv",
+  "data_file_test": "data/body_performance_data_test.csv"
+}
